@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Event Management System**
 
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **.NET, Blazor, Razor Pages, C#**
 
 - 📫 How to reach me **mhamzazafarg@gmail.com**
