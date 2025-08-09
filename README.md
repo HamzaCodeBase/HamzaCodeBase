@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I comment my code so future-me can thank past-me.**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-light.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-light.svg">
+</picture>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h3 align="left">Languages and Tools:</h3>
