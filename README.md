@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Hamza Zafar</h1>
 <h3 align="center">A passionate .NET Developer</h3>
 
@@ -21,7 +22,13 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-light.svg">
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=default">
+</picture>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
