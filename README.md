@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Zafar</h1>
 <h3 align="center">A passionate .NET Developer</h3>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzacodebase" alt="hamzacodebase" /></a> </p> -->
 
 - 🔭 I’m currently working on **ASP.NET Core and Blazor projects with a focus on clean architecture and real-world application development.**
 
@@ -9,13 +7,15 @@
 
 - 👯 I’m looking to collaborate on **.NET Core, Blazor, and Azure-based projects that focus on clean architecture and scalable solutions.**
 
-- 👨‍💻 My projects are available at [https://github.com/HamzaCodeBase](https://github.com/HamzaCodeBase)
+- 👨‍💻 My projects are available at [github](https://github.com/HamzaCodeBase).
 
 - 💬 Ask me about **ASP.NET Core, Blazor, Web API development, Clean architecture, Blazor, Razor Pages, C#.**
 
 - 📫 How to reach me **mhamzazafarg@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/hamzazafarg/).
 
 - ⚡ Fun fact **I comment my code so future-me can thank past-me.**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -77,6 +77,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact" alt="hamzacodebase" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzacodebase&" alt="hamzacodebase" /></p>
+![Github Stats](https://greptile-stats.vercel.app/api/widget/hamzacodebase/stats)
