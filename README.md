@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Hamza Zafar</h1>
 <h3 align="center">A passionate .NET Developer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnpuejkyN3ZnN2ZrOTRjZDhqaDNyZ21oaXdneW95dnZjYmxwdjZhcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="300">
+</p>
+
+<br>
+
 - 🔭 I’m currently working on **ASP.NET Core and Blazor projects with a focus on clean architecture and real-world application development.**
 
 - 🌱 I’m currently learning **advanced authentication, GraphQL, and Azure services.**
@@ -16,22 +22,31 @@
 
 - ⚡ Fun fact **I comment my code so future-me can thank past-me.**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-light.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-light.svg">
-</picture>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=default">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=default">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-light.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/hamzacodebase/hamzacodebase/output/snake-light.svg">
+  </picture>
+</p>
 
+<hr>
+<br>
 
+ <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzacodebase&show_icons=true&locale=en&layout=compact&theme=default">
+  </picture>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <!-- Core .NET & Microsoft Stack -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -85,9 +100,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
 </p>
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/hamzacodebase/stats)
+<br>
+<br>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2h1NWc1ZGdoNHEwOXYxYm1lajBoOXVtbG8ycW80bHVpdWw5d3g2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tydpNxSnNEgLvDm11D/giphy.gif" alt="AboutMe" style="width:auto; max-width:100%;">
+</p>
+
