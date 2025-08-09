@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mhamzazafarg@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/hamzazafarg/).
 
-- ⚡ Fun fact **I comment my code so future-me can thank past-me.**
+- ⚡ Fun fact **I comment my code so future-me can thank past-me.** 
 
 <br>
 
@@ -43,7 +43,10 @@
   </picture>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bW1nYzBzeXFyYTQ0Z2VsOTlnYXhpZ3h1b2Fscmd4amk4dHF1OXE5ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PSvYCegn74vcJN0TbW/giphy.gif" alt="GIF" height="100">
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
