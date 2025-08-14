@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **.NET Core, Blazor, and Azure-based projects that focus on clean architecture and scalable solutions.**
 
-- 👨‍💻 Checkout my portfolio site here [Portfolio](https://hamza-zafar-portfolio.b12sites.com/)
+- 👨‍💻 Checkout my portfolio site here [Portfolio](https://hamza-zafar-portfolio.b12sites.com/).
 
 - 💬 Ask me about **ASP.NET Core, Blazor, Web API development, Clean architecture, Blazor, Razor Pages, C#.**
 
