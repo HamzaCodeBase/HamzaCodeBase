@@ -97,7 +97,7 @@ Every system I build is **tested**, **monitored**, and **deployed** through auto
         <img src="https://img.shields.io/badge/4%2B-3FB950?style=flat-square&labelColor=0d1117&color=3FB950&label=API+Integrations" />
       </td>
       <td style="border: none;" align="center" width="20%">
-        <img src="https://img.shields.io/badge/3%2B+YRS-A78BFA?style=flat-square&labelColor=0d1117&color=A78BFA&label=.NET+Experience" />
+        <img src="https://img.shields.io/badge/3%2B%20YRS-A78BFA?style=flat-square&labelColor=0d1117&color=A78BFA&label=.NET+Experience" />
       </td>
     </tr>
   </table>
@@ -200,77 +200,6 @@ Every system I build is **tested**, **monitored**, and **deployed** through auto
       <img src="https://img.shields.io/badge/Moq-5E5E5E?style=flat-square" />
       <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
       <img src="https://img.shields.io/badge/Serilog-000000?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58A6FF,100:0d1117&height=2&section=separator" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=FEATURED+PROJECTS&center=true" alt="typing SVG" />
-</div>
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td style="border: none;" width="50%" valign="top">
-      <h3>Eventio</h3>
-      <sub>Full-stack Blazor Server SaaS platform</sub>
-      <br/><br/>
-      <ul>
-        <li>Layered architecture: Controller -> Service -> Repository</li>
-        <li>Auth0, Stripe, OpenAI Assistants API integrations</li>
-        <li>Azure App Service + GitHub Actions CI/CD pipeline</li>
-        <li>Sentry monitoring + Tailwind UI from Figma designs</li>
-      </ul>
-      <br/>
-      <code>.NET 8</code> <code>Blazor</code> <code>MySQL</code> <code>OpenAI</code> <code>Azure</code>
-    </td>
-    <td style="border: none;" width="50%" valign="top">
-      <h3>Jackrabbit</h3>
-      <sub>Legacy .NET Framework -> .NET 8 migration</sub>
-      <br/><br/>
-      <ul>
-        <li>Full migration: .NET Framework 4.8 to .NET 8</li>
-        <li>System.Web -> ASP.NET Core middleware + DI</li>
-        <li>EF Core upgrade with query optimization</li>
-        <li>100% feature parity with regression testing</li>
-      </ul>
-      <br/>
-      <code>.NET 8</code> <code>EF Core</code> <code>SQL Server</code>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;" width="50%" valign="top">
-      <h3>Enwage</h3>
-      <sub>Enterprise test suite architecture</sub>
-      <br/><br/>
-      <ul>
-        <li>200+ xUnit tests using AAA pattern + Moq mocking</li>
-        <li>DI/IoC for fully decoupled, testable components</li>
-        <li>Continuous validation in CI pipeline</li>
-      </ul>
-      <br/>
-      <code>.NET 8</code> <code>xUnit</code> <code>Moq</code>
-    </td>
-    <td style="border: none;" width="50%" valign="top">
-      <h3>Findd</h3>
-      <sub>Cron-based background processing engine</sub>
-      <br/><br/>
-      <ul>
-        <li>IHostedServices for scheduled job execution</li>
-        <li>Automated sync, retry logic, structured logging</li>
-        <li>Clean domain separation from core logic</li>
-      </ul>
-      <br/>
-      <code>.NET 6</code> <code>IHostedService</code> <code>EF Core</code>
     </td>
   </tr>
 </table>
