@@ -28,9 +28,9 @@
 
 <br/>
 
-I architect and deliver **production-grade .NET applications**, from SaaS products to enterprise APIs. My expertise spans **Clean Architecture**, **CQRS**, **Microservices**, and cloud-native solutions built for scale and maintainability.
+I build production ready applications that solve real business needs using **C#**, **.NET**, **ASP.NET Core**, **WPF**, **React**, and **Azure**. From SaaS platforms and APIs to desktop applications, I focus on delivering reliable, maintainable solutions built around client requirements.
 
-Every system I build is **tested**, **monitored**, and **deployed** through automated CI/CD pipelines. I write code that other engineers trust in production.
+I work across the full development lifecycle, including architecture, development, integrations, testing, deployment, and optimization, with a focus on turning requirements into practical, scalable software that is ready for production.
 
 <br/>
 
