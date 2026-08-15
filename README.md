@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,azure&perline=4" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,windows,react,azure&perline=5" />
 </div>
 
 <br/>
