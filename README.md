@@ -92,18 +92,19 @@ Every system I build is **tested**, **monitored**, and **deployed** through auto
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="right" valign="middle" style="border: none; padding-right: 15px;"><strong>Frameworks</strong></td>
-    <td align="left" valign="middle" style="border: none;">
-      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
-      <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-    </td>
-  </tr>
+  <td align="right" valign="middle" style="border: none; padding-right: 15px;"><strong>Frameworks</strong></td>
+  <td align="left" valign="middle" style="border: none;">
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+    <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  </td>
+</tr>
   <tr style="border: none;">
     <td align="right" valign="middle" style="border: none; padding-right: 15px;"><strong>Architecture</strong></td>
     <td align="left" valign="middle" style="border: none;">
